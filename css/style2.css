@@ -1,0 +1,180 @@
+.c1{
+	background-color: gray;
+	position: absolute;
+	top:0px;
+	width:1900px;
+	height:200px;
+}
+.h1{
+	color:white;
+	position: absolute;
+	top:25px;
+	font-size:50px;
+	font-family: tahoma;
+}
+.c2{
+	background-color: black;
+	position: absolute;
+	top:200px;
+	width:1900px;
+	height:75px;
+}
+.a1{
+	background-color: gray;
+	color:white;
+	text-decoration: none;
+	position: absolute;
+	top:20px;
+	left:10px;
+	font-size: 35px;
+}
+.a2{
+	color:gray;
+	text-decoration: none;
+	position:absolute;
+	left:130px;
+	top:20px;
+	font-size: 35px;
+}
+.a3{
+	color:gray;
+	text-decoration: none;
+	position:absolute;
+	left:220px;
+	top:20px;
+	font-size: 35px;
+
+}
+.a4{
+	color:gray;
+	text-decoration: none;
+	position:absolute;
+	left:310px;
+	top:20px;
+	font-size: 35px;
+}
+.c3{
+	border:solid black 1px;
+	width:1200px;
+	height:300px;
+	position: absolute;
+	top:278px;
+	left:50px;
+	background-color: lightgray;
+}
+.b{
+	font-family: tahoma;
+	font-size: 20px;
+
+}
+.c4{
+	position: absolute;
+	top: 585px;
+	left: 50px;
+	width: 580px;
+	height:250px;
+}
+.b1{
+	font-family: tahoma;
+	font-size:20px;
+
+}
+i{
+	position: absolute;
+	left:25px;
+	top:225px;
+	width:50px;
+	height:50px;
+}
+.b2
+{
+	position: absolute;
+	left:75px;
+	top:208px;
+	width:75px;
+	height: 50px;
+	background-color: lightgray;
+	border: solid 1px;
+	text-align: center;
+	font-style: bold;
+}
+.c5{
+	position: absolute;
+	left: 640px;
+	top:585px;
+	width:580px;
+	height:250px;
+
+
+
+}
+.b3{
+	font-family: tahoma;
+	font-size: 20px
+}
+.c6{
+	position: absolute;
+	left:1260px;
+	top:278px;
+	width:640px;
+}
+.e1{
+	background-color: lightgray;
+	position: absolute;
+	top:120px;
+	left:1260;
+	width:200px;
+	height: 200px;
+	border: solid 1px;
+}
+.e2{
+	background-color: lightgray;
+	position: absolute;
+	top:120px;
+	right:200px;
+	width:200px;
+	height: 200px;
+	border: solid 1px;
+}
+.e3{
+	position: absolute;
+	background-color: lightgray;
+	top: 330px;
+	left:1260;
+	width:200px;
+	height:200px;
+	border:solid 1px;
+}
+.e4{
+	background-color: lightgray;
+	position: absolute;
+	top:330px;
+	right:200px;
+	width:200px;
+	height: 200px;
+	border: solid 1px;
+}
+.e5{
+	position: absolute;
+	background-color: lightgray;
+	top: 540px;
+	left:1260;
+	width:200px;
+	height:200px;
+	border:solid 1px;
+}
+.e6{
+	background-color: lightgray;
+	position: absolute;
+	top:540px;
+	right:200px;
+	width:200px;
+	height: 200px;
+	border: solid 1px;
+	}
+
+
+
+
+
+
